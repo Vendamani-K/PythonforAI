@@ -1,5 +1,4 @@
-
-.venv/
+Week2/.venv/
 __pycache__/
-errors.csv
-
+*.pyc
+.ipynb_checkpoints/
